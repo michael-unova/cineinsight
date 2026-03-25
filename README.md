@@ -4,7 +4,7 @@ An AI-powered movie sentiment analysis and recommendation web app built during t
 
 ## Live Demo
 
-[Coming soon - Streamlit Cloud link]
+https://michael-unova-cineinsight-app-cunno4.streamlit.app/
 
 ## What it does
 
